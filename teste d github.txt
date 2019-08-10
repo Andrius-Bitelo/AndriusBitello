@@ -6,7 +6,7 @@ git push origin master = para subir o arquivo criado.
 git commit -m = entre " " para colocar o comentário.
 git commit -am = para add o arquivo e ja comenta
 
-
+caminho ( C:\Users\curso.Am\Desktop\gitmoodle\AndriusBitello )
 
 --------------------------------------------
 1º inicializar o git, com git init
