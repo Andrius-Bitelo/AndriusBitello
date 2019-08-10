@@ -2,3 +2,6 @@ git init = iniciliazar o git
 git status = ver os documentos que não subiram
 git add . = para subir os aquivos
 git clone (url) = para criar o git no cmd
+git push origin master = para subir o arquivo criado.
+git commit -m = entre " " para colocar o comentário.
+git commit -am = para add o arquivo e ja comenta
