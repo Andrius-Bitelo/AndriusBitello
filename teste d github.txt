@@ -5,3 +5,12 @@ git clone (url) = para criar o git no cmd
 git push origin master = para subir o arquivo criado.
 git commit -m = entre " " para colocar o comentário.
 git commit -am = para add o arquivo e ja comenta
+
+
+
+--------------------------------------------
+1º inicializar o git, com git init
+2º git status (para ver todos os arquivos)
+3º git add . ( adicionar todos os arquivos)
+4º git commit -m "nome do arquivo"
+5º git push origin master 
